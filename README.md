@@ -318,23 +318,4 @@ None
 
 ---
 
-## Future Improvements
-
-1. **Automate the identification of ordinal categories**:
-   - Leveraging natural language processing (NLP) techniques could allow for automated detection and ordering of categories, saving time and reducing manual effort.
-
-2. **Implement advanced filtering logic**:
-   - Allow dynamic user-defined thresholds for filtering instead of hardcoding criteria, making the process more adaptable to various use cases.
-
-3. **Dynamic datatype inference**:
-   - Incorporate machine learning or heuristic algorithms to dynamically infer the most memory-efficient data types for large and complex datasets.
-
----
-
-## How to Use This Repository
-
-1. Clone the repository.
-2. Place the `customer_train.csv` file in the same directory as the script.
-3. Run the Python script to generate the `ds_jobs_transformed` DataFrame.
-
 
